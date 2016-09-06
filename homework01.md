@@ -1,4 +1,4 @@
-<p align=center><b> #Homework 01 </b></p>
+<p align=center><b> Homework 01 </b></p>
 |First Name|Last Name|
 |----------|--------|
 |Shirong|Bai|
@@ -89,10 +89,15 @@ software engineers must think about the demand of software, computer scientists
 don't.
 
 <h3>Q6 - Abstractions, Conversations, Specification, Translation, and Iteration </h3>
-haah
+See Prof. Anderson's lecture material for more information \[[2](#ref2)\].
+- **Abstraction** :
+- **Conversations** :
+- **Specification** :
+- **Translation** :
+- **Iteration** :
 
 ## References
 1. <a name="ref1">Brooks</a>, F., <q>No Silver Bullet: Essence and 
 Accidents of Software Engineering</q>. *Information Processing*, April, 1987.
-
+2. <a name="ref3">Anderson</a>, Ken. *Course Overview (Lecture 01)*, August 23, 2016.
 <hr>
