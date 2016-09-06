@@ -73,16 +73,16 @@ into hydrogen molecule and oxygen molecule under the catalysis of light. Chemist
 explore the mechanism behind it, how does it work. And chemical engineer
 study how to make it work and how to improve its efficiency. One is science,
 the other on is engineering. Detailed analogy is as following:
-- **Goals**
+- **Goals** :
 Like chemist study water splitting for the love of knowledge and are inspired
 by interest, chemical engineer study it for practical purpose. Similarly,
  computer scientists purely study problems but software engineers solves 
  real problems.
-- **Budgets**
+- **Budgets** :
 A chemical engineer has to make decision like purchasing based on budgets,
  chemists has less money issue to worry. This is the same for computer scientists
  software engineers, the later has to think more about budgets.
-- **Demand and Potentials**
+- **Demand and Potentials** :
 A chemical engineer has to think the future use of research in real life.
 Think about the demand and efficiency issue, chemist doesn't. Similarly,
 software engineers must think about the demand of software, computer scientists
