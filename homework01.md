@@ -7,9 +7,12 @@
 
 <h3>Q1 - Essential Difficulties </h3>
 <p align="justify">
-Essential difficulties are those inherent of the intricate nature of software engineering. Brooks says, which I quote \[[1](#ref1)\]
->"There is no single development, in either technology or in management technique, that by itself promises even one order-of-magnitude improvement in productivity, in reliability, in simplicity"
->"no inventions that will do for software productivity, reliability, and simplicity what electronics, transistors, and large-scale integration did for computer hardware."
+Essential difficulties are those inherent of the intricate nature of software engineering. Brooks says, which I quote \[[1](#ref1)\]:
+>There is no single development, in either technology or in management technique, 
+>that by itself promises even one order-of-magnitude improvement in productivity, 
+>in reliability, in simplicity.
+>no inventions that will do for software productivity, reliability, and simplicity
+>what electronics, transistors, and large-scale integration did for computer hardware.
 </p>
 
 <h3>Q2 - Accidental Difficulties </h3>
