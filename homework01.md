@@ -93,7 +93,7 @@ See Prof. Anderson's lecture material for more information \[[2](#ref2)\].
 - **Abstraction** :
 Break down complex ideas into manageable pieces. This is important because
 real software problem is intricate in nature, abstraction helps to conquer them
-piece-wisely. A typical use is OOP, another one is libraries \[[1](#ref1)]\], 
+piece-wisely. A typical use is OOP, another one is libraries \[[1](#ref1)\], 
 one more is different layers of program- user, developer, code and machine code.
 - **Conversations** :
 Conversation means communication between group members. Software are designed 
