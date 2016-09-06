@@ -87,8 +87,9 @@ A chemical engineer has to think the future use of research in real life.
 Think about the demand and efficiency issue, chemist doesn't. Similarly,
 software engineers must think about the demand of software, computer scientists
 don't.
-<h3>Q6 - Abstractions, Conversations, Specification, Translation, and Iteration </h3>
 
+<h3>Q6 - Abstractions, Conversations, Specification, Translation, and Iteration </h3>
+haah
 
 ## References
 1. <a name="ref1">Brooks</a>, F., <q>No Silver Bullet: Essence and 
