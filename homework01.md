@@ -1,4 +1,9 @@
-Shirong Bai
+<p align=center><b>Homework 01</b></p>
+|First Name|Last Namer|
+|----------|--------|
+|Shirong|Bai|
+
+<h3>Q1 - Essential Difficulties </h3>
 # Homework 1
 1.	haha	
 2.	haha
