@@ -1,4 +1,4 @@
-<p align=center><b> Homework 01 </b></p>
+#Homework 01
 |First Name|Last Name|
 |----------|--------|
 |Shirong|Bai|
