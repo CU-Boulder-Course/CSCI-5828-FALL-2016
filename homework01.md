@@ -23,7 +23,7 @@ represent real system with software in detail is conceptually difficult.
 
 <h3>Q2 - Accidental Difficulties </h3>
 According to Brooks \[[1](#ref1)\], Accidental difficulties are those
->"attend its production but not inherent".
+>attend its production but not inherent.
 
 There is a characteristic of accidental difficulties that they can be 
 attacked by multiple promising techniques: High-level languages, Time
@@ -49,7 +49,7 @@ According to Brooks, \[[1](#ref1)\]
 
     > The software entity is constantly subject to pressures for change.
 
-Software embodies its function, and the function is under pressure of change.
+    Software embodies its function, and the function is under pressure of change.
 A cultural matrix of applications, users, laws and machine vehicles require
 software change continually.
 - **Invisibility** :
