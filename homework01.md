@@ -14,7 +14,7 @@ Essential difficulties are those inherent of the intricate nature of software en
 Software project is intricate in nature. The essence of software entity is a constuct of interlocking and abstract concepts: data sets, relationships among data types, algorithms and functions' invocation. To precisely represent real system with software in detail is conceptually difffult.
 
 <h3>Q2 - Accidental Difficulties </h3>
-
+According to Brooks, Accidental difficulties are those "attend its production but not inherent". There is a characteristic of accidential difficulties that they can be attacked by mutiple promising techniques: High-level languages, Time sharing and Unified programming environments.
 <h3>Q3 - Four Essential Difficulties </h3>
 
 - **Complexity** :
