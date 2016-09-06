@@ -31,7 +31,7 @@ sharing and Unified programming environments.
 <h3>Q3 - Four Essential Difficulties </h3>
 
 - **Complexity** :
-The complexity of software is essential property, not a accidental one. 
+The complexity of software is a essential property, not a accidental one. 
 Like digital computers themselves are complex in size, software are
 comprises of number of different elements, the communications among
 elements are nonlinear so that make the software project unpredictable. 
@@ -40,9 +40,21 @@ essential difficulty and its nonlinear increase with size. Complexity could
 be communication with team members, the difficulty of enumerating, and
 the unreliability. Besides, management problem could be annoying too.
 - **Conformity** :
+Most of the complexity come from the arbitrary requirement in real life.
+To make software function well, it has to be "forced without rhyme or reason"
+ so that its interfaces conform. In real cases, conformation can come from
+ most recent arrival of scenes and conformation to other interfaces.
+- **Changeability** :According to Brooks, \[[1](#ref1)\]
+>"The software entity is constantly subject to pressures for change."
 
-- **Changeability** :
+Software embodies its function, and the function is under pressure of change.
+A cultural matrix of applications, users, laws and machine vehicles require
+software change continually.
 - **Invisibility** :
+Software is invisible and unvisualizable because the reality of software
+is not inherently in space. To represent it, one has to abstract information
+from real case. This abstraction in indeed more conceptual. A geometric
+reality is captured in geometric abstraction.
 
 <h3>Q4 - Why There Is No Silver Bullet for Software Engineering </h3>
 
