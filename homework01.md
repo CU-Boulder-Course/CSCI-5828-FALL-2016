@@ -59,7 +59,11 @@ from real case. This abstraction in indeed more conceptual. A geometric
 reality is captured in geometric abstraction.
 
 <h3>Q4 - Why There Is No Silver Bullet for Software Engineering </h3>
-
+From Brooks language, silver bullet is some technology that can improve
+the performance by at least one order of magnitude. Due to the inherent
+ complexity of software engineering, he thinks, considering current techniques,
+ no significant improvement can be achieved so there is no silver bullet
+ can slay that monster.
 <h3>Q5 - Software Engineering vs. Computer Science </h3>
 
 <h3>Q6 - Abstractions, Conversations, Specification, Translation, and Iteration </h3>
