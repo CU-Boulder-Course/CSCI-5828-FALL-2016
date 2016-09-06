@@ -1,31 +1,37 @@
-<p align=center><b>Homework 01</b></p>
-|First Name|Last Namer|
+<p align=center><b> #Homework 01 </b></p>
+|First Name|Last Name|
 |----------|--------|
 |Shirong|Bai|
 
 <h3>Q1 - Essential Difficulties </h3>
-# Homework 1
-1.	haha	
-2.	haha
-3.	
-   -	Complexity: haha
+<p align="justify">
 
-   -	Conformity: haha
+</p>
 
-   -	Changeability: haha
+<h3>Q2 - Accidental Difficulties </h3>
 
-   -	Invisibility: haha
-4.	haha
+<p align="justify">
 
-5.	haha
+</p>
+<h3>Q1 - Four Essential Difficulties </h3>
+<p align="justify">
 
-6.	
-   -	Abstractions: haha
-   
-   -	Conversations: haha
+</p>
+- **Complexity** :
+- **Conformity** :
+- **Changeability** :
+- **Invisibility** :
 
-   -	Specification: haha
+<h3>Q1 - Why There Is No Silver Bullet for Software Engineering </h3>
+<p align="justify">
 
-   -	Translation: haha
+</p>
+<h3>Q1 - Software Engineering vs. Computer Science </h3>
+<p align="justify">
 
-   -	Iteration: haha
+</p>
+<h3>Q1 - Abstractions, Conversations, Specification, Translation, and Iteration </h3>
+<p align="justify">
+
+</p>
+
