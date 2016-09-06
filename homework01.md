@@ -44,7 +44,8 @@ Most of the complexity come from the arbitrary requirement in real life.
 To make software function well, it has to be "forced without rhyme or reason"
  so that its interfaces conform. In real cases, conformation can come from
  most recent arrival of scenes and conformation to other interfaces.
-- **Changeability** :According to Brooks, \[[1](#ref1)\]
+- **Changeability** :
+According to Brooks, \[[1](#ref1)\]
 >"The software entity is constantly subject to pressures for change."
 
 Software embodies its function, and the function is under pressure of change.
