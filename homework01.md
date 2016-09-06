@@ -65,7 +65,28 @@ the performance by at least one order of magnitude. Due to the inherent
  no significant improvement can be achieved so there is no silver bullet
  can slay that monster.
 <h3>Q5 - Software Engineering vs. Computer Science </h3>
-
+Chemical engineer is more engineering oriented, chemist cares more about
+fundamental principle of chemistry. Software engineers share a similar
+relationship with computer scientists just as chemical engineers shares with
+chemists. For example, a well known problem is water spiting, water dissociate
+into hydrogen molecule and oxygen molecule under the catalysis of light. Chemist
+explore the mechanism behind it, how does it work. And chemical engineer
+study how to make it work and how to improve its efficiency. One is science,
+the other on is engineering. Detailed analogy is as following:
+- **Goals**
+Like chemist study water splitting for the love of knowledge and are inspired
+by interest, chemical engineer study it for practical purpose. Similarly,
+ computer scientists purely study problems but software engineers solves 
+ real problems.
+- **Budgets**
+A chemical engineer has to make decision like purchasing based on budgets,
+ chemists has less money issue to worry. This is the same for computer scientists
+ software engineers, the later has to think more about budgets.
+- **Demand and Potentials**
+A chemical engineer has to think the future use of research in real life.
+Think about the demand and efficiency issue, chemist doesn't. Similarly,
+software engineers must think about the demand of software, computer scientists
+don't.
 <h3>Q6 - Abstractions, Conversations, Specification, Translation, and Iteration </h3>
 
 
