@@ -17,26 +17,30 @@ simplicity what electronics, transistors, and large-scale integration
 did for computer hardware.
 
 Software project is intricate in nature. The essence of software entity 
-is a constuct of interlocking and abstract concepts: data sets, relationships 
+is a construct of interlocking and abstract concepts: data sets, relationships 
 among data types, algorithms and functions' invocation. To precisely 
-represent real system with software in detail is conceptually difffult.
+represent real system with software in detail is conceptually difficult.
 
 <h3>Q2 - Accidental Difficulties </h3>
 According to Brooks \[[1](#ref1)\], Accidental difficulties are those
 >"attend its production but not inherent".
 
-There is a characteristic of accidential difficulties that they can be 
-attacked by mutiple promising techniques: High-level languages, Time 
+There is a characteristic of accidental difficulties that they can be 
+attacked by multiple promising techniques: High-level languages, Time
 sharing and Unified programming environments.
 <h3>Q3 - Four Essential Difficulties </h3>
 
 - **Complexity** :
-The complexity of software is essential property, not a accidential one. 
-Like digital computers themselves are complex in size, softwares are 
-comprises of number of different elements, the communications among 
-elements are nolinear so that make the software project unpreditable. 
-Most of the classic problem of  
+The complexity of software is essential property, not a accidental one. 
+Like digital computers themselves are complex in size, software are
+comprises of number of different elements, the communications among
+elements are nonlinear so that make the software project unpredictable. 
+Most of the classic problem of developing software derive from the the
+essential difficulty and its nonlinear increase with size. Complexity could
+be communication with team members, the difficulty of enumerating, and
+the unreliability. Besides, management problem could be annoying too.
 - **Conformity** :
+
 - **Changeability** :
 - **Invisibility** :
 
@@ -48,6 +52,7 @@ Most of the classic problem of
 
 
 ## References
-1. <a name="ref1">Brooks</a>, F., <q>No Silver Bullet: Essence and Accidents of Software Engineering</q>. *Information Processing*, April, 1987.
+1. <a name="ref1">Brooks</a>, F., <q>No Silver Bullet: Essence and 
+Accidents of Software Engineering</q>. *Information Processing*, April, 1987.
 
 <hr>
