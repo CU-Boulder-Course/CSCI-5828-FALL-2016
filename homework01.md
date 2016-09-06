@@ -3,6 +3,8 @@
 |----------|--------|
 |Shirong|Bai|
 
+<hr>
+
 <h3>Q1 - Essential Difficulties </h3>
 <p align="justify">
 Essential difficulties are those inherent of the intricate nature of software engineering. Brooks says, which I quote \[[1](#ref1)\]
@@ -38,5 +40,6 @@ Essential difficulties are those inherent of the intricate nature of software en
 </p>
 
 ## References
-1. <a name="ref1">Brooks</a>,F., <q>No Silver Bullet: Essence and Accidents of Software Engineering</q>. *Information Processing*, April, 1987.
+1. <a name="ref1">Brooks</a>, F., <q>No Silver Bullet: Essence and Accidents of Software Engineering</q>. *Information Processing*, April, 1987.
 
+<hr>
