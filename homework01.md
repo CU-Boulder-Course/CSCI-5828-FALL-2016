@@ -91,11 +91,25 @@ don't.
 <h3>Q6 - Abstractions, Conversations, Specification, Translation, and Iteration </h3>
 See Prof. Anderson's lecture material for more information \[[2](#ref2)\].
 - **Abstraction** :
+Break down complex ideas into manageable pieces. This is important because
+real software problem is intricate in nature, abstraction helps to conquer them
+piece-wisely. A typical use is OOP, another one is libraries \[[1(#ref1)]\], 
+one more is different layers of program- user, developer, code and machine code.
 - **Conversations** :
+Conversation means communication between group members. Software are designed 
+and developed by programmers, so conversation is important.
 - **Specification** :
+Specification means the detailed diagrams, layouts. It describes the functional
+ and non-functional requirement. It is important in a way that make software
+ engineer informed what they should achieve.
 - **Translation** :
+Software engineer translate real problem into abstraction, to design, to development.
+Translation is important because it occur over the course of software development
+continuously.
 - **Iteration** :
-
+Iteration is defined as repetition of a certain procedure. It constitutes big
+project by gluing cells of software, splitting jobs and logically function local
+and globally.
 ## References
 1. <a name="ref1">Brooks</a>, F., <q>No Silver Bullet: Essence and 
 Accidents of Software Engineering</q>. *Information Processing*, April, 1987.
