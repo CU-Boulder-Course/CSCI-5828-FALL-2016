@@ -6,21 +6,36 @@
 <hr>
 
 <h3>Q1 - Essential Difficulties </h3>
-Essential difficulties are those inherent of the intricate nature of software engineering. Brooks says, which I quote \[[1](#ref1)\]:
->There is no single development, in either technology or in management technique, that by itself promises even one order-of-magnitude improvement in productivity, in reliability, in simplicity.
+Essential difficulties are those inherent of the intricate nature of 
+software engineering. Brooks says, which I quote \[[1](#ref1)\]:
+>There is no single development, in either technology or in management 
+technique, that by itself promises even one order-of-magnitude improvement 
+in productivity, in reliability, in simplicity.
 >
->No inventions that will do for software productivity, reliability, and simplicity what electronics, transistors, and large-scale integration did for computer hardware.
+>No inventions that will do for software productivity, reliability, and 
+simplicity what electronics, transistors, and large-scale integration 
+did for computer hardware.
 
-Software project is intricate in nature. The essence of software entity is a constuct of interlocking and abstract concepts: data sets, relationships among data types, algorithms and functions' invocation. To precisely represent real system with software in detail is conceptually difffult.
+Software project is intricate in nature. The essence of software entity 
+is a constuct of interlocking and abstract concepts: data sets, relationships 
+among data types, algorithms and functions' invocation. To precisely 
+represent real system with software in detail is conceptually difffult.
 
 <h3>Q2 - Accidental Difficulties </h3>
-According to Brooks, Accidental difficulties are those
+According to Brooks \[[1](#ref1)\], Accidental difficulties are those
 >"attend its production but not inherent".
 
-There is a characteristic of accidential difficulties that they can be attacked by mutiple promising techniques: High-level languages, Time sharing and Unified programming environments.
+There is a characteristic of accidential difficulties that they can be 
+attacked by mutiple promising techniques: High-level languages, Time 
+sharing and Unified programming environments.
 <h3>Q3 - Four Essential Difficulties </h3>
 
 - **Complexity** :
+The complexity of software is essential property, not a accidential one. 
+Like digital computers themselves are complex in size, softwares are 
+comprises of number of different elements, the communications among 
+elements are nolinear so that make the software project unpreditable. 
+Most of the classic problem of  
 - **Conformity** :
 - **Changeability** :
 - **Invisibility** :
